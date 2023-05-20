@@ -1,0 +1,17 @@
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.deps.json
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.dll
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.pdb
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interface.dll
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interface.pdb
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.AssemblyReference.cache
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.AssemblyInfoInputs.cache
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.AssemblyInfo.cs
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.CopyComplete
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.dll
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.pdb

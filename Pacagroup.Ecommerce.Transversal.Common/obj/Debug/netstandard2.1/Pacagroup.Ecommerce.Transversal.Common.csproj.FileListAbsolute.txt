@@ -1,0 +1,10 @@
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.deps.json
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Documentos\Cursos\ArquitecturaAplicacionesEmpresariales\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.pdb

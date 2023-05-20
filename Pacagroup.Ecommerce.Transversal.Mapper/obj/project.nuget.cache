@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAeNDGuYFiO+l5/2lU5szuJhIBsHjI7zDnMob5wABxEtv945XGOCYAAwayoOPeqFY5t6NmUVamm7SJ1gYyIkKQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BALANTA\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\BALANTA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
