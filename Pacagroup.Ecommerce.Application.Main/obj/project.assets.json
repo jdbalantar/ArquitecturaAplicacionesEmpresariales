@@ -30,6 +30,63 @@
             "related": ".xml"
           }
         }
+      },
+      "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecommerce.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Application.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
+          "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecommerce.Application.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecommerce.Application.Interface.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecommerce.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecommerce.Domain.Entity.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Domain.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecommerce.Domain.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecommerce.Domain.Interface.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecommerce.Transversal.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecommerce.Transversal.Common.dll": {}
+        }
       }
     }
   },
@@ -117,11 +174,41 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Application.DTO/Pacagroup.Ecommerce.Application.DTO.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Application.DTO/Pacagroup.Ecommerce.Application.DTO.csproj"
+    },
+    "Pacagroup.Ecommerce.Application.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Application.Interface/Pacagroup.Ecommerce.Application.Interface.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Application.Interface/Pacagroup.Ecommerce.Application.Interface.csproj"
+    },
+    "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Domain.Entity/Pacagroup.Ecommerce.Domain.Entity.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Domain.Entity/Pacagroup.Ecommerce.Domain.Entity.csproj"
+    },
+    "Pacagroup.Ecommerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Domain.Interface/Pacagroup.Ecommerce.Domain.Interface.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Domain.Interface/Pacagroup.Ecommerce.Domain.Interface.csproj"
+    },
+    "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Transversal.Common/Pacagroup.Ecommerce.Transversal.Common.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Transversal.Common/Pacagroup.Ecommerce.Transversal.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "AutoMapper >= 12.0.1"
+      "AutoMapper >= 12.0.1",
+      "Pacagroup.Ecommerce.Application.DTO >= 1.0.0",
+      "Pacagroup.Ecommerce.Application.Interface >= 1.0.0",
+      "Pacagroup.Ecommerce.Domain.Entity >= 1.0.0",
+      "Pacagroup.Ecommerce.Domain.Interface >= 1.0.0",
+      "Pacagroup.Ecommerce.Transversal.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -154,7 +241,23 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj": {
+              "projectPath": "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj"
+            },
+            "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj": {
+              "projectPath": "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj"
+            },
+            "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj": {
+              "projectPath": "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj"
+            },
+            "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Interface\\Pacagroup.Ecommerce.Domain.Interface.csproj": {
+              "projectPath": "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Interface\\Pacagroup.Ecommerce.Domain.Interface.csproj"
+            },
+            "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
+              "projectPath": "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

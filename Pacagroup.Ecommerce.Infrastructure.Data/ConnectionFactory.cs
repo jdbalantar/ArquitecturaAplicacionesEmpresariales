@@ -19,8 +19,8 @@ namespace Pacagroup.Ecommerce.Infrastructure.Data
             get
             {
                 SqlConnection sqlConnection = new SqlConnection();
-                if (sqlConnection == null) return null;
-                sqlConnection.ConnectionString = _configuration.GetConnectionString("Connection");
+                if (sqlConnection == null) return null!;
+                sqlConnection.ConnectionString = _configuration.GetConnectionString("DefaultConnection");
                 sqlConnection.Open();
                 return sqlConnection;
             }

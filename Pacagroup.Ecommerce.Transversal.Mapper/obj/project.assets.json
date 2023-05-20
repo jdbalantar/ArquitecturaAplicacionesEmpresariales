@@ -30,6 +30,26 @@
             "related": ".xml"
           }
         }
+      },
+      "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecommerce.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Pacagroup.Ecommerce.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pacagroup.Ecommerce.Domain.Entity.dll": {}
+        }
       }
     }
   },
@@ -117,11 +137,23 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Application.DTO/Pacagroup.Ecommerce.Application.DTO.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Application.DTO/Pacagroup.Ecommerce.Application.DTO.csproj"
+    },
+    "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Pacagroup.Ecommerce.Domain.Entity/Pacagroup.Ecommerce.Domain.Entity.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Domain.Entity/Pacagroup.Ecommerce.Domain.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "AutoMapper >= 12.0.1"
+      "AutoMapper >= 12.0.1",
+      "Pacagroup.Ecommerce.Application.DTO >= 1.0.0",
+      "Pacagroup.Ecommerce.Domain.Entity >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -154,7 +186,14 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj": {
+              "projectPath": "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj"
+            },
+            "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj": {
+              "projectPath": "D:\\Documentos\\Cursos\\ArquitecturaAplicacionesEmpresariales\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
